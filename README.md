@@ -1,2 +1,2 @@
-# cats_cnn
-Can not download .h5 file because of its too large size (approximately 97M), so try to make your own while training a neural network.
+# cats-cnn
+Convolutional neural network with pretrained VGG19 neural network as layer for cats breeds recognition.
